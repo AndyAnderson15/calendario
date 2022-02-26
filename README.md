@@ -13,7 +13,7 @@ Se desarollo un diagrama para el desarollo del programa, la lógica.
 # Paso 4.  Proyecto en Visual Studio Code
 * Schema calendario dentro de una base de datos en el archivo (.env)
 * Importante:
-* 
+**  Realizar migración:
 
 # Objetivo de Clientes 👨‍👨‍👦‍👦
 Puede descargarse las encuentas que proporcionar información actualizada sobre el ritmo de crecimiento de los potenciales proyectos inmobiliarios a construirse.

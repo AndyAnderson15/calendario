@@ -1,4 +1,3 @@
-
 # Proyecto - Calendario
 Prueba de Conocimientos Técnicos de PHP con Framework Laravel
 # Paso 1. Realizar Diagrama del Proyecto 📊
